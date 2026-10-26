@@ -6,7 +6,7 @@
   <a href="mailto:zm48713@gmail.com"><img src="https://img.shields.io/badge/Email-zm48713%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <!-- <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
   <img src="https://img.shields.io/badge/Open%20to-roles%20%26%20contracts-4ADE80?style=flat" alt="Open to roles and contracts">
-  <img src="https://img.shields.io/badge/Lahore%2C%20PK-Remote%20friendly-71717A?style=flat" alt="Lahore, Pakistan, remote friendly">
+  <img src="https://img.shields.io/badge/Bahawalpur%2C%20Pakistan-Remote%20friendly-71717A?style=flat" alt="Bahawalpur, Pakistan, remote friendly">
 </p>
 
 ## About me
@@ -78,7 +78,9 @@ Focused, importable workflows that each demonstrate one production pattern, star
 
 **Automation:** &nbsp;
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks%20%26%20REST-0EA5E9?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-0EA5E9?style=flat-square&logo=openapiinitiative&logoColor=white)
+![API Integration](https://img.shields.io/badge/API%20Integration-6366F1?style=flat-square&logo=postman&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-0F766E?style=flat-square&logo=webauthn&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
 **Frontend:** &nbsp;
@@ -89,6 +91,7 @@ Focused, importable workflows that each demonstrate one production pattern, star
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend & data:** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
